@@ -1,0 +1,9 @@
+		How to Run
+	
+	1. Download love from the link below:
+	https://love2d.org/#download
+
+	2. Drag the folder on to the Love.exe file
+	or change the love location within the bat 
+	file to the location of love that's on your
+	PC.
